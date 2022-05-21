@@ -1,0 +1,10 @@
+@startuml something
+
+rectangle 集約 {
+    object オブジェクト {
+        ID
+        名前
+    }
+}
+
+@enduml
